@@ -1,0 +1,20 @@
+  525  git commit -m "Commit 1 de Vero Valdez"
+  526  git status
+  527  git log
+  528  git remote add origin https://github.com/veronicajujuy/Examen-Intro-C2-3105.git
+  529  git remote -v
+  530  git push origin main
+  531  git branch -M master
+  532  git branch -M main
+  533  clear
+  534  git remote show origin
+  535  git remote -v
+  536  git remote show origin
+  537  git branch hotfix
+  538  git branch
+  539  git switch hotfix 
+  540  git branch
+  541  clear
+  542  history
+  543  history 20
+  544  history 20 > Comandos\ Utilizados/command.txt
